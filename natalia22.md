@@ -1,10 +1,10 @@
 # Bienvenidos a mi perfil 
 ## Karol Natalia Osorio Poveda  
-## Tecnico en sistemas y Software 
-### Hola 
+### Tecnico en sistemas y Software 
+# Hola 
  Soy Aprendiz del Servicio Nacional de Aprendizaje (SENA), mis estudios profesionales se han desarrollado dentro del area de sistemas, Soy Bachiller tecnico en Sistemas con excelentes habilidades y conocimientos en mantenimientos y automatizacion de tareas sobre los servidores y sus sistemas operativos y aplicaciones. Actualmente me encuentro realizando un Tecnologo en Analisis y Desarrollo de Software, adquiriendo nuevos conocimientos en el mundo de la programacion y mucho mas.
 
-# Habilidades: 
+## Habilidades: 
 Tengo hablidades en Comprension de Redes y Sistemas operativos, diferentes tipos de mantenimientos y conocimiento en VisualBasic. Cuento con habilidades blandas como: investigar y diagnosticar problemas tecnicos y encontrar soluciones efectivas y eficaces, tengo buena comunicacion con los demas, me gusta trabajar en equipo y con diferentes tipos de personas, tambien cuento con una buena atencion al cliente, empatia y capacidad para relacionarme con el usuario final.
 
 ## Experiencia Laboral: 
